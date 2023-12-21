@@ -3,9 +3,9 @@ import { Main } from "../components/main/Main";
 import { About } from "../components/about/About";
 import { Electricity } from "../components/electricity/Electricity";
 import { Cases } from "../components/cases/Cases";
-// import { Faq } from "../components/fag/Faq"
+import { Faq } from "../components/faq/Faq"
 import { ContactUs } from "../components/contactUs/ContactUs";
-// import { Footer } from "../components/footer/Footer";
+import { Footer } from "../components/footer/Footer";
 
 export const MainPage = (toggleMenu) => {
   return (
@@ -16,10 +16,10 @@ export const MainPage = (toggleMenu) => {
         <About />
         <Electricity />
         <Cases/>
-        {/* <Faq /> */}
+        <Faq />
         <ContactUs/>
       </main>
-      {/* <Footer/> */}
+      <Footer/>
     </>
   );
 };
