@@ -1,7 +1,7 @@
 import { Header } from "../components/header/Header";
 import { Main } from "../components/main/Main";
 import { About } from "../components/about/About";
-// import { Electricity } from "../components/electricity/Electricity";
+import { Electricity } from "../components/electricity/Electricity";
 import { Cases } from "../components/cases/Cases";
 // import { Faq } from "../components/fag/Faq"
 import { ContactUs } from "../components/contactUs/ContactUs";
@@ -14,7 +14,7 @@ export const MainPage = (toggleMenu) => {
       <main>
         <Main />
         <About />
-        {/* <Electricity /> */}
+        <Electricity />
         <Cases/>
         {/* <Faq /> */}
         <ContactUs/>
