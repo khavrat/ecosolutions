@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/ecosolutions/static/css/main.c45e6a8b.css",
-    "main.js": "/ecosolutions/static/js/main.13d6eee4.js",
+    "main.js": "/ecosolutions/static/js/main.e29347fd.js",
     "static/js/787.f8979778.chunk.js": "/ecosolutions/static/js/787.f8979778.chunk.js",
+    "static/media/heroLgX2.jpg": "/ecosolutions/static/media/heroLgX2.580b9b8eee923be17482.jpg",
+    "static/media/heroMdX2.jpg": "/ecosolutions/static/media/heroMdX2.15461b9131b90264f7ad.jpg",
     "static/media/cardImg2x2.jpg": "/ecosolutions/static/media/cardImg2x2.7644d305dc243ca2280c.jpg",
+    "static/media/heroLg.jpg": "/ecosolutions/static/media/heroLg.22fa7a1c8aea5afaa8a6.jpg",
     "static/media/cardImg3x2.jpg": "/ecosolutions/static/media/cardImg3x2.50528776552e336ecb3c.jpg",
     "static/media/cardImg1x2.jpg": "/ecosolutions/static/media/cardImg1x2.52019e7a35d923b7a474.jpg",
     "static/media/cardImg5x2.jpg": "/ecosolutions/static/media/cardImg5x2.9b5b199c65d00f9587f4.jpg",
     "static/media/qualityLgX2.jpg": "/ecosolutions/static/media/qualityLgX2.189a526ad8da8bd83153.jpg",
     "static/media/cardImg4x2.jpg": "/ecosolutions/static/media/cardImg4x2.92ee3c861a0d989362eb.jpg",
     "static/media/innovationLgX2.jpg": "/ecosolutions/static/media/innovationLgX2.cd6d64316698c562e655.jpg",
+    "static/media/heroSmX2.jpg": "/ecosolutions/static/media/heroSmX2.fbedba4b77810819fea6.jpg",
+    "static/media/heroMd.jpg": "/ecosolutions/static/media/heroMd.41f7ab5d663cafacb220.jpg",
     "static/media/cardImg2.jpg": "/ecosolutions/static/media/cardImg2.73f5b2af64743e00ed4e.jpg",
     "static/media/cardImg3.jpg": "/ecosolutions/static/media/cardImg3.935c9650ca7600b57eef.jpg",
     "static/media/qualityMdX2.jpg": "/ecosolutions/static/media/qualityMdX2.26df2b3c5cb4d1fd1c45.jpg",
@@ -19,6 +24,7 @@
     "static/media/innovationMdX2.jpg": "/ecosolutions/static/media/innovationMdX2.f30ecc092d2ffe63ea31.jpg",
     "static/media/cardImg4.jpg": "/ecosolutions/static/media/cardImg4.0fa77417b9961160866c.jpg",
     "static/media/innovationLg.jpg": "/ecosolutions/static/media/innovationLg.47d0c72094eef6613e9d.jpg",
+    "static/media/heroSm.jpg": "/ecosolutions/static/media/heroSm.f520dc706d99f5394bc7.jpg",
     "static/media/logoHover.svg": "/ecosolutions/static/media/logoHover.b22cd439d50ce48a846de45535ad908a.svg",
     "static/media/logo.svg": "/ecosolutions/static/media/logo.7d102154dce2d14bc9c97e7b462dabdc.svg",
     "static/media/slick.svg": "/ecosolutions/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -33,11 +39,11 @@
     "static/media/arrowSm.svg": "/ecosolutions/static/media/arrowSm.b46be50c0da26b6c93da1400e8de009a.svg",
     "static/media/menu.svg": "/ecosolutions/static/media/menu.388c7838328211dc8d8856c58eee3ae0.svg",
     "main.c45e6a8b.css.map": "/ecosolutions/static/css/main.c45e6a8b.css.map",
-    "main.13d6eee4.js.map": "/ecosolutions/static/js/main.13d6eee4.js.map",
+    "main.e29347fd.js.map": "/ecosolutions/static/js/main.e29347fd.js.map",
     "787.f8979778.chunk.js.map": "/ecosolutions/static/js/787.f8979778.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c45e6a8b.css",
-    "static/js/main.13d6eee4.js"
+    "static/js/main.e29347fd.js"
   ]
 }
