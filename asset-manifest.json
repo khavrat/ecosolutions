@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecosolutions/static/css/main.c45e6a8b.css",
-    "main.js": "/ecosolutions/static/js/main.e29347fd.js",
+    "main.js": "/ecosolutions/static/js/main.6f322c33.js",
     "static/js/787.f8979778.chunk.js": "/ecosolutions/static/js/787.f8979778.chunk.js",
     "static/media/heroLgX2.jpg": "/ecosolutions/static/media/heroLgX2.580b9b8eee923be17482.jpg",
     "static/media/heroMdX2.jpg": "/ecosolutions/static/media/heroMdX2.15461b9131b90264f7ad.jpg",
@@ -39,11 +39,11 @@
     "static/media/arrowSm.svg": "/ecosolutions/static/media/arrowSm.b46be50c0da26b6c93da1400e8de009a.svg",
     "static/media/menu.svg": "/ecosolutions/static/media/menu.388c7838328211dc8d8856c58eee3ae0.svg",
     "main.c45e6a8b.css.map": "/ecosolutions/static/css/main.c45e6a8b.css.map",
-    "main.e29347fd.js.map": "/ecosolutions/static/js/main.e29347fd.js.map",
+    "main.6f322c33.js.map": "/ecosolutions/static/js/main.6f322c33.js.map",
     "787.f8979778.chunk.js.map": "/ecosolutions/static/js/787.f8979778.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c45e6a8b.css",
-    "static/js/main.e29347fd.js"
+    "static/js/main.6f322c33.js"
   ]
 }
