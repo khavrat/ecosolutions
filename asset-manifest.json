@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/ecosolutions/static/css/main.f855e6bc.css",
-    "main.js": "/ecosolutions/static/js/main.0088f64c.js",
+    "main.css": "/ecosolutions/static/css/main.c45e6a8b.css",
+    "main.js": "/ecosolutions/static/js/main.7faa4e75.js",
     "static/js/787.f8979778.chunk.js": "/ecosolutions/static/js/787.f8979778.chunk.js",
-    "static/media/logo.svg": "/ecosolutions/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cardImg2x2.jpg": "/ecosolutions/static/media/cardImg2x2.7644d305dc243ca2280c.jpg",
+    "static/media/cardImg3x2.jpg": "/ecosolutions/static/media/cardImg3x2.50528776552e336ecb3c.jpg",
+    "static/media/cardImg1x2.jpg": "/ecosolutions/static/media/cardImg1x2.52019e7a35d923b7a474.jpg",
+    "static/media/cardImg5x2.jpg": "/ecosolutions/static/media/cardImg5x2.9b5b199c65d00f9587f4.jpg",
+    "static/media/cardImg4x2.jpg": "/ecosolutions/static/media/cardImg4x2.92ee3c861a0d989362eb.jpg",
+    "static/media/cardImg2.jpg": "/ecosolutions/static/media/cardImg2.73f5b2af64743e00ed4e.jpg",
+    "static/media/cardImg3.jpg": "/ecosolutions/static/media/cardImg3.935c9650ca7600b57eef.jpg",
+    "static/media/cardImg5.jpg": "/ecosolutions/static/media/cardImg5.323645050cf86706a8f0.jpg",
+    "static/media/cardImg1.jpg": "/ecosolutions/static/media/cardImg1.6f57b727b516f776a2e2.jpg",
+    "static/media/cardImg4.jpg": "/ecosolutions/static/media/cardImg4.0fa77417b9961160866c.jpg",
+    "static/media/slick.svg": "/ecosolutions/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecosolutions/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecosolutions/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/ecosolutions/index.html",
-    "main.f855e6bc.css.map": "/ecosolutions/static/css/main.f855e6bc.css.map",
-    "main.0088f64c.js.map": "/ecosolutions/static/js/main.0088f64c.js.map",
+    "static/media/slick.woff": "/ecosolutions/static/media/slick.295183786cd8a1389865.woff",
+    "main.c45e6a8b.css.map": "/ecosolutions/static/css/main.c45e6a8b.css.map",
+    "main.7faa4e75.js.map": "/ecosolutions/static/js/main.7faa4e75.js.map",
     "787.f8979778.chunk.js.map": "/ecosolutions/static/js/787.f8979778.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0088f64c.js"
+    "static/css/main.c45e6a8b.css",
+    "static/js/main.7faa4e75.js"
   ]
 }
