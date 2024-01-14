@@ -101,7 +101,7 @@ export const ContactForm = () => {
         ) : null}
       </Wrapper>
 
-      <Label htmlFor="message">Message:{texts.contactForm.label.message }</Label>
+      <Label htmlFor="message">{texts.contactForm.label.message }</Label>
       <Textarea
         id="message"
         name="message"
